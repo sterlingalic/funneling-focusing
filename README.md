@@ -41,3 +41,6 @@ The file includes the following columns:
 * `follow_up_filtered_zscore`: Average of raters' z-scored judgments for funneling and focusing across the three raters -- filtered subset. Missing values indicate that an exchange is not part of the filtered subset.
 
 Each example can be **uniquely identified with the combination of the `obs_id` and `exchange_idx` columns**.
+
+
+Please contact Dora (ddemszky@stanford.edu) for questions.
